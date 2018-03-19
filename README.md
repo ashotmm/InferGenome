@@ -1,2 +1,2 @@
 # InferGenome
-Bayesian Genome Inference
+Bayesian genome inference
